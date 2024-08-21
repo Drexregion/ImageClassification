@@ -6,11 +6,11 @@ This project demonstrates image classification using the MNIST dataset with Tens
 ## **Installation Instructions**
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Drexregion/ImageClassification
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd https://github.com/Drexregion/ImageClassification
    ```
 3. Install the required dependencies:
    ```bash
